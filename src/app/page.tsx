@@ -7,6 +7,7 @@ import Hero from './components/Hero/Hero';
 import Gallery from './components/Gallery/Gallery';
 import Explore from './components/Explore/Explore';
 import DiscoverMore from './components/DiscoverMore/DiscoverMore';
+import Overview from './components/Overview/Overview';
 
 
 export default function Home() {
@@ -16,7 +17,7 @@ export default function Home() {
       <Hero />
       <Gallery />
       <Explore />
-
+      <Overview />
       <DiscoverMore />
       {/* -------------------- */}
     </div>

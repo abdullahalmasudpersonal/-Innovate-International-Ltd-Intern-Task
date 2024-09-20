@@ -20,9 +20,15 @@ const config: Config = {
         darkBlue: "#1F3B68",
         whiteBlue: "#4b6286",
         purple: "#A020F0",
+        lenierGreen: "#3C805D",
+        lenierGreenEnd: "#6BE6A8",
         purplishMagenta: "#980FA7",
         deepIndigo: '#31096A',
-        filterColor: "#4000FF"
+        filterColor: "#4000FF",
+        galleryPhoto1Gradient: "#3321FA",
+        galleryPhoto1GradientEnd: "#3A3665",
+        galleryPhoto2Gradient: "#FA6F6F",
+        galleryPhoto2GradientEnd: "#A51D1D",
       },
       height: {
         '101': '101px',

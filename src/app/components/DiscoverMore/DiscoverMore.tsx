@@ -11,7 +11,7 @@ import man4 from '../../../assets/image4.jpg';
 const DiscoverMore = () => {
     return (
         <div className="flex justify-center">
-            <div className="w-1240 mb-24 bg-gray-100">
+            <div className="w-1240 mb-24 ">
 
                 <h4 className="text-3xl font-bold mb-8 mt-20" style={{ fontFamily: 'inter' }}>DISCOVER MORE</h4>
 
@@ -38,7 +38,7 @@ const DiscoverMore = () => {
 
                     <div className="w-[291.53px] h-[402.74px] shadow rounded-2xl border py-3 flex justify-center">
                         <div className="relative">
-                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 relative">
+                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-red-500 relative">
                                 <div className="absolute -bottom-4 left-3">
                                     <div className="flex ">
                                         <Image height={28} width={28} src={man} className="absolute z-50 rounded-full border-2 border-white" alt="" />
@@ -68,7 +68,7 @@ const DiscoverMore = () => {
 
                     <div className="w-[291.53px] h-[402.74px] shadow rounded-2xl border py-3 flex justify-center">
                         <div className="relative">
-                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 relative">
+                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-orange-500 via-purple-500 to-pink-500 relative">
                                 <div className="absolute -bottom-4 left-3">
                                     <div className="flex ">
                                         <Image height={28} width={28} src={man} className="absolute z-50 rounded-full border-2 border-white" alt="" />
@@ -98,7 +98,7 @@ const DiscoverMore = () => {
 
                     <div className="w-[291.53px] h-[402.74px] shadow rounded-2xl border py-3 flex justify-center">
                         <div className="relative">
-                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 relative">
+                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-sky-500 to-pink-500 relative">
                                 <div className="absolute -bottom-4 left-3">
                                     <div className="flex ">
                                         <Image height={28} width={28} src={man} className="absolute z-50 rounded-full border-2 border-white" alt="" />
@@ -128,7 +128,7 @@ const DiscoverMore = () => {
 
                     <div className="w-[291.53px] h-[402.74px] shadow rounded-2xl border py-3 flex justify-center">
                         <div className="relative">
-                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 relative">
+                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-green-500 via-purple-500 to-orange-500 relative">
                                 <div className="absolute -bottom-4 left-3">
                                     <div className="flex ">
                                         <Image height={28} width={28} src={man} className="absolute z-50 rounded-full border-2 border-white" alt="" />
@@ -192,7 +192,7 @@ const DiscoverMore = () => {
 
                     <div className="w-[291.53px] h-[402.74px] shadow rounded-2xl border py-3 flex justify-center">
                         <div className="relative">
-                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 relative">
+                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-600 to-gray-500 relative">
                                 <div className="absolute -bottom-4 left-3">
                                     <div className="flex ">
                                         <Image height={28} width={28} src={man} className="absolute z-50 rounded-full border-2 border-white" alt="" />
@@ -222,7 +222,7 @@ const DiscoverMore = () => {
 
                     <div className="w-[291.53px] h-[402.74px] shadow rounded-2xl border py-3 flex justify-center">
                         <div className="relative">
-                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 relative">
+                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-orange-500 to-pink-500 relative">
                                 <div className="absolute -bottom-4 left-3">
                                     <div className="flex ">
                                         <Image height={28} width={28} src={man} className="absolute z-50 rounded-full border-2 border-white" alt="" />
@@ -252,7 +252,7 @@ const DiscoverMore = () => {
 
                     <div className="w-[291.53px] h-[402.74px] shadow rounded-2xl border py-3 flex justify-center">
                         <div className="relative">
-                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 relative">
+                            <div className="w-[260.24px] h-[212.28px] rounded-2xl bg-gradient-to-r from-blue-500 via-parple-500 to-sky-500 relative">
                                 <div className="absolute -bottom-4 left-3">
                                     <div className="flex ">
                                         <Image height={28} width={28} src={man} className="absolute z-50 rounded-full border-2 border-white" alt="" />

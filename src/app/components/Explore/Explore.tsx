@@ -5,11 +5,11 @@ import man from '../../../assets/image3.jpg'
 const Explore = () => {
     return (
         <div className="flex justify-center">
-            <div className="w-1263 h-603  mt-230  bg-gray-200 flex"  >
+            <div className="w-1263 h-603  mt-[60px]  flex"  >
 
-                <div className=" w-649 h-603 bg-slate-300 flex items-center justify-center">
+                <div className=" w-649 h-603  flex items-center justify-center">
                     <div>
-                        <div className=" h-345 bg-slate-400 text-2xl flex items-center justify-center">
+                        <div className=" h-345  text-2xl flex items-center justify-center">
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  qui officia deserunt mollit anim id est laborum. </p>
                         </div>
                         <div className="flex justify-center">
@@ -21,7 +21,7 @@ const Explore = () => {
                 </div>
 
 
-                <div className="h-603 w-614 flex relative items-center justify-end" style={{ border: '1px solid gray' }}>
+                <div className="h-603 w-614 flex relative items-center justify-end" >
 
 
 
