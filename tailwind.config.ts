@@ -15,7 +15,14 @@ const config: Config = {
         coustomRed: '#C02424',
         redPink: '#E76666',
         coustomBlue: '#146FE8',
-        lightGreen: "#A0FCD9 "
+        lightGreen: "#A0FCD9 ",
+        buttonColor: "#4000FF",
+        darkBlue: "#1F3B68",
+        whiteBlue: "#4b6286",
+        purple: "#A020F0",
+        purplishMagenta: "#980FA7",
+        deepIndigo: '#31096A',
+        filterColor: "#4000FF"
       },
       height: {
         '101': '101px',
@@ -23,8 +30,10 @@ const config: Config = {
         '44': '44px',
         "258": "258px",
         "300": "300px",
-        "260": "260px"
-
+        "260": "260px",
+        "345": "345px",
+        "603": "603px",
+        "395": "395px"
       },
       width: {
         '1253': '1253px',
@@ -33,13 +42,19 @@ const config: Config = {
         "300": "300px",
         "235": "235px",
         "1240": "1240px",
-        "260": "260px"
+        "260": "260px",
+        "1263": "1263px",
+        "614": "614px",
+        "649": "649px",
+        "469": "469px",
+        "395": "395px"
       },
       margin: {
         '88': '88px',
         "20": "20px",
         "44": "44px",
-        "230": "230px"
+        "230": "230px",
+        "426": "426px"
       },
       padding: {
         "20": "20px"
