@@ -19,6 +19,7 @@ const config: Config = {
         buttonColor: "#4000FF",
         darkBlue: "#1F3B68",
         whiteBlue: "#4b6286",
+        customGreen: '#0FA958',
         purple: "#A020F0",
         lenierGreen: "#3C805D",
         lenierGreenEnd: "#6BE6A8",

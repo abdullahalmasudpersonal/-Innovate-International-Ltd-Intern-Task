@@ -19,8 +19,6 @@ const Overview = () => {
             </div>
 
             <div className="h-[258px] bg-lenierGreenEnd semi-circular relative">
-
-
             </div>
 
             <div className="flex justify-center">
@@ -28,7 +26,15 @@ const Overview = () => {
                 <div className="w-[1263px] flex justify-between ">
 
                     <div className="w-[649px] h-[728px] -mt-[280px] z-30 bg-slate-200">
-                        fsdf
+
+
+                        <div className="w-[408px] h-[408px] bg-customGreen rounded-2xl mt-16">
+
+                        </div>
+
+<div className="w-[] h-[120]"></div>
+
+
                     </div>
 
                     <div className="w-[496px] h-[253px] -mt-[35px] z-30">
